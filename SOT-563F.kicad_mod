@@ -1,6 +1,6 @@
 (module SOT-563F (layer F.Cu) (tedit 568D1512)
   (descr "6-pin SOT-563F package (https://www.fairchildsemi.com/package-drawings/MA/MAD06A.pdf)")
-  (tags SOT-23-6)
+  (tags SOT-563F)
   (attr smd)
   (fp_text reference REF** (at 0 -2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
